@@ -1,2 +1,2 @@
 # github-workshop
-this is a workshop duh
+this is a workshop
